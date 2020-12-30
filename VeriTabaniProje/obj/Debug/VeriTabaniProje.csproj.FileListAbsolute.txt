@@ -1,0 +1,72 @@
+D:\SAU\VeriTabaniProje\VeriTabaniProje\bin\Debug\VeriTabaniProje.exe.config
+D:\SAU\VeriTabaniProje\VeriTabaniProje\bin\Debug\VeriTabaniProje.exe
+D:\SAU\VeriTabaniProje\VeriTabaniProje\bin\Debug\VeriTabaniProje.pdb
+D:\SAU\VeriTabaniProje\VeriTabaniProje\obj\Debug\VeriTabaniProje.csprojAssemblyReference.cache
+D:\SAU\VeriTabaniProje\VeriTabaniProje\obj\Debug\VeriTabaniProje.FrmAnaSayfa.resources
+D:\SAU\VeriTabaniProje\VeriTabaniProje\obj\Debug\VeriTabaniProje.Properties.Resources.resources
+D:\SAU\VeriTabaniProje\VeriTabaniProje\obj\Debug\VeriTabaniProje.csproj.GenerateResource.cache
+D:\SAU\VeriTabaniProje\VeriTabaniProje\obj\Debug\VeriTabaniProje.exe
+D:\SAU\VeriTabaniProje\VeriTabaniProje\obj\Debug\VeriTabaniProje.pdb
+D:\SAU\VeriTabaniProje\VeriTabaniProje\obj\Debug\VeriTabaniProje.FrmMusteriEkle.resources
+D:\SAU\VeriTabaniProje\VeriTabaniProje\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SAU\VeriTabaniProje\VeriTabaniProje\bin\Debug\Npgsql.dll
+D:\SAU\VeriTabaniProje\VeriTabaniProje\bin\Debug\System.Buffers.dll
+D:\SAU\VeriTabaniProje\VeriTabaniProje\bin\Debug\System.Memory.dll
+D:\SAU\VeriTabaniProje\VeriTabaniProje\bin\Debug\System.Numerics.Vectors.dll
+D:\SAU\VeriTabaniProje\VeriTabaniProje\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\SAU\VeriTabaniProje\VeriTabaniProje\bin\Debug\System.Text.Encodings.Web.dll
+D:\SAU\VeriTabaniProje\VeriTabaniProje\bin\Debug\System.Text.Json.dll
+D:\SAU\VeriTabaniProje\VeriTabaniProje\bin\Debug\System.Threading.Channels.dll
+D:\SAU\VeriTabaniProje\VeriTabaniProje\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\SAU\VeriTabaniProje\VeriTabaniProje\bin\Debug\System.ValueTuple.dll
+D:\SAU\VeriTabaniProje\VeriTabaniProje\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\SAU\VeriTabaniProje\VeriTabaniProje\bin\Debug\Npgsql.xml
+D:\SAU\VeriTabaniProje\VeriTabaniProje\bin\Debug\System.Buffers.xml
+D:\SAU\VeriTabaniProje\VeriTabaniProje\bin\Debug\System.Memory.xml
+D:\SAU\VeriTabaniProje\VeriTabaniProje\bin\Debug\System.Numerics.Vectors.xml
+D:\SAU\VeriTabaniProje\VeriTabaniProje\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\SAU\VeriTabaniProje\VeriTabaniProje\bin\Debug\System.Text.Encodings.Web.xml
+D:\SAU\VeriTabaniProje\VeriTabaniProje\bin\Debug\System.Text.Json.xml
+D:\SAU\VeriTabaniProje\VeriTabaniProje\bin\Debug\System.Threading.Channels.xml
+D:\SAU\VeriTabaniProje\VeriTabaniProje\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\SAU\VeriTabaniProje\VeriTabaniProje\bin\Debug\System.ValueTuple.xml
+D:\SAU\VeriTabaniProje\VeriTabaniProje\obj\Debug\VeriTabaniProje.csproj.CopyComplete
+D:\SAU\VeriTabaniProje\VeriTabaniProje\obj\Debug\VeriTabaniProje.Müşteriler.resources
+D:\SAU\VERİ TABANI YÖNETİM SİSTEMLERİ\VeriTabaniProje\VeriTabaniProje\bin\Debug\VeriTabaniProje.exe.config
+D:\SAU\VERİ TABANI YÖNETİM SİSTEMLERİ\VeriTabaniProje\VeriTabaniProje\bin\Debug\VeriTabaniProje.exe
+D:\SAU\VERİ TABANI YÖNETİM SİSTEMLERİ\VeriTabaniProje\VeriTabaniProje\bin\Debug\VeriTabaniProje.pdb
+D:\SAU\VERİ TABANI YÖNETİM SİSTEMLERİ\VeriTabaniProje\VeriTabaniProje\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SAU\VERİ TABANI YÖNETİM SİSTEMLERİ\VeriTabaniProje\VeriTabaniProje\bin\Debug\Npgsql.dll
+D:\SAU\VERİ TABANI YÖNETİM SİSTEMLERİ\VeriTabaniProje\VeriTabaniProje\bin\Debug\System.Buffers.dll
+D:\SAU\VERİ TABANI YÖNETİM SİSTEMLERİ\VeriTabaniProje\VeriTabaniProje\bin\Debug\System.Memory.dll
+D:\SAU\VERİ TABANI YÖNETİM SİSTEMLERİ\VeriTabaniProje\VeriTabaniProje\bin\Debug\System.Numerics.Vectors.dll
+D:\SAU\VERİ TABANI YÖNETİM SİSTEMLERİ\VeriTabaniProje\VeriTabaniProje\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\SAU\VERİ TABANI YÖNETİM SİSTEMLERİ\VeriTabaniProje\VeriTabaniProje\bin\Debug\System.Text.Encodings.Web.dll
+D:\SAU\VERİ TABANI YÖNETİM SİSTEMLERİ\VeriTabaniProje\VeriTabaniProje\bin\Debug\System.Text.Json.dll
+D:\SAU\VERİ TABANI YÖNETİM SİSTEMLERİ\VeriTabaniProje\VeriTabaniProje\bin\Debug\System.Threading.Channels.dll
+D:\SAU\VERİ TABANI YÖNETİM SİSTEMLERİ\VeriTabaniProje\VeriTabaniProje\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\SAU\VERİ TABANI YÖNETİM SİSTEMLERİ\VeriTabaniProje\VeriTabaniProje\bin\Debug\System.ValueTuple.dll
+D:\SAU\VERİ TABANI YÖNETİM SİSTEMLERİ\VeriTabaniProje\VeriTabaniProje\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\SAU\VERİ TABANI YÖNETİM SİSTEMLERİ\VeriTabaniProje\VeriTabaniProje\bin\Debug\Npgsql.xml
+D:\SAU\VERİ TABANI YÖNETİM SİSTEMLERİ\VeriTabaniProje\VeriTabaniProje\bin\Debug\System.Buffers.xml
+D:\SAU\VERİ TABANI YÖNETİM SİSTEMLERİ\VeriTabaniProje\VeriTabaniProje\bin\Debug\System.Memory.xml
+D:\SAU\VERİ TABANI YÖNETİM SİSTEMLERİ\VeriTabaniProje\VeriTabaniProje\bin\Debug\System.Numerics.Vectors.xml
+D:\SAU\VERİ TABANI YÖNETİM SİSTEMLERİ\VeriTabaniProje\VeriTabaniProje\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\SAU\VERİ TABANI YÖNETİM SİSTEMLERİ\VeriTabaniProje\VeriTabaniProje\bin\Debug\System.Text.Encodings.Web.xml
+D:\SAU\VERİ TABANI YÖNETİM SİSTEMLERİ\VeriTabaniProje\VeriTabaniProje\bin\Debug\System.Text.Json.xml
+D:\SAU\VERİ TABANI YÖNETİM SİSTEMLERİ\VeriTabaniProje\VeriTabaniProje\bin\Debug\System.Threading.Channels.xml
+D:\SAU\VERİ TABANI YÖNETİM SİSTEMLERİ\VeriTabaniProje\VeriTabaniProje\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\SAU\VERİ TABANI YÖNETİM SİSTEMLERİ\VeriTabaniProje\VeriTabaniProje\bin\Debug\System.ValueTuple.xml
+D:\SAU\VERİ TABANI YÖNETİM SİSTEMLERİ\VeriTabaniProje\VeriTabaniProje\obj\Debug\VeriTabaniProje.csprojAssemblyReference.cache
+D:\SAU\VERİ TABANI YÖNETİM SİSTEMLERİ\VeriTabaniProje\VeriTabaniProje\obj\Debug\VeriTabaniProje.Müşteriler.resources
+D:\SAU\VERİ TABANI YÖNETİM SİSTEMLERİ\VeriTabaniProje\VeriTabaniProje\obj\Debug\VeriTabaniProje.FrmAnaSayfa.resources
+D:\SAU\VERİ TABANI YÖNETİM SİSTEMLERİ\VeriTabaniProje\VeriTabaniProje\obj\Debug\VeriTabaniProje.FrmMusteriEkle.resources
+D:\SAU\VERİ TABANI YÖNETİM SİSTEMLERİ\VeriTabaniProje\VeriTabaniProje\obj\Debug\VeriTabaniProje.Properties.Resources.resources
+D:\SAU\VERİ TABANI YÖNETİM SİSTEMLERİ\VeriTabaniProje\VeriTabaniProje\obj\Debug\VeriTabaniProje.csproj.GenerateResource.cache
+D:\SAU\VERİ TABANI YÖNETİM SİSTEMLERİ\VeriTabaniProje\VeriTabaniProje\obj\Debug\VeriTabaniProje.csproj.CopyComplete
+D:\SAU\VERİ TABANI YÖNETİM SİSTEMLERİ\VeriTabaniProje\VeriTabaniProje\obj\Debug\VeriTabaniProje.exe
+D:\SAU\VERİ TABANI YÖNETİM SİSTEMLERİ\VeriTabaniProje\VeriTabaniProje\obj\Debug\VeriTabaniProje.pdb
+D:\SAU\VERİ TABANI YÖNETİM SİSTEMLERİ\VeriTabaniProje\VeriTabaniProje\obj\Debug\VeriTabaniProje.AracEkle.resources
+D:\SAU\VERİ TABANI YÖNETİM SİSTEMLERİ\VeriTabaniProje\VeriTabaniProje\obj\Debug\VeriTabaniProje.AracListesi.resources
+D:\SAU\VERİ TABANI YÖNETİM SİSTEMLERİ\VeriTabaniProje\VeriTabaniProje\obj\Debug\VeriTabaniProje.FrmSözlesme.resources
+D:\SAU\VERİ TABANI YÖNETİM SİSTEMLERİ\VeriTabaniProje\VeriTabaniProje\obj\Debug\VeriTabaniProje.Satislar.resources
